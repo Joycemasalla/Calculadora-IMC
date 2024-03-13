@@ -1,0 +1,10 @@
+a. Se o usuário escolher a opção 3, implemente uma calculadora
+de combustível:
+b. Solicite a entrada do preço do litro do gás e do álcool.
+c. Permita ao usuário inserir a quantidade de litros abastecidos
+para ambos (gás e álcool).
+d. Calcule o custo total para cada tipo de combustível.
+e. Determine qual é a opção mais econômica com base no custo
+total.
+f. Exiba o resultado.
+g. Retorne ao menu de opção.

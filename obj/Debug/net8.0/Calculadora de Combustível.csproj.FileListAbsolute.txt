@@ -1,0 +1,14 @@
+C:\Users\joyce\Downloads\Calculadora de Combustível\bin\Debug\net8.0\Calculadora de Combustível.exe
+C:\Users\joyce\Downloads\Calculadora de Combustível\bin\Debug\net8.0\Calculadora de Combustível.deps.json
+C:\Users\joyce\Downloads\Calculadora de Combustível\bin\Debug\net8.0\Calculadora de Combustível.runtimeconfig.json
+C:\Users\joyce\Downloads\Calculadora de Combustível\bin\Debug\net8.0\Calculadora de Combustível.dll
+C:\Users\joyce\Downloads\Calculadora de Combustível\bin\Debug\net8.0\Calculadora de Combustível.pdb
+C:\Users\joyce\Downloads\Calculadora de Combustível\obj\Debug\net8.0\Calculadora de Combustível.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joyce\Downloads\Calculadora de Combustível\obj\Debug\net8.0\Calculadora de Combustível.AssemblyInfoInputs.cache
+C:\Users\joyce\Downloads\Calculadora de Combustível\obj\Debug\net8.0\Calculadora de Combustível.AssemblyInfo.cs
+C:\Users\joyce\Downloads\Calculadora de Combustível\obj\Debug\net8.0\Calculadora de Combustível.csproj.CoreCompileInputs.cache
+C:\Users\joyce\Downloads\Calculadora de Combustível\obj\Debug\net8.0\Calculadora de Combustível.dll
+C:\Users\joyce\Downloads\Calculadora de Combustível\obj\Debug\net8.0\refint\Calculadora de Combustível.dll
+C:\Users\joyce\Downloads\Calculadora de Combustível\obj\Debug\net8.0\Calculadora de Combustível.pdb
+C:\Users\joyce\Downloads\Calculadora de Combustível\obj\Debug\net8.0\Calculadora de Combustível.genruntimeconfig.cache
+C:\Users\joyce\Downloads\Calculadora de Combustível\obj\Debug\net8.0\ref\Calculadora de Combustível.dll
